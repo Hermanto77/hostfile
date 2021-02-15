@@ -336,7 +336,7 @@ section.dashboard {
     color: var(--white) !important;
 }
 .activation__body {
-    margin-top: 18px;
+    margin-top: 14px;
 }
 .btn.btn-sm {
     padding: 4px 10px;
@@ -897,7 +897,7 @@ footer p a, footer nav li a, footer .footer__column a {
 }
 footer h4 {
     color: var(--white);
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 700;
     margin: 11px 0 18px 0;
 }
